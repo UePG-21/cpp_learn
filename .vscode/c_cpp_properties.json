@@ -3,8 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
-                // "D:/mingw64/include/boost/boost_1_77_0/"  // 添加boost路径
+                "${workspaceFolder}/**",
+                "E:/mingw64/include/boost_1_78_0/"  // 添加boost路径
             ],
             "defines": [
                 "_DEBUG",
