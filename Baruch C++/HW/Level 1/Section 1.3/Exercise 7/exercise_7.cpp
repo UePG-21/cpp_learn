@@ -5,7 +5,7 @@ int main()
     long long int num_input;
     long long int num_power;
 
-    // get number to be multiplied 
+    // get number to be multiplied
     printf("Please input the integer to be multiplied.\n");
 
     if (!scanf("%lld", &num_input))

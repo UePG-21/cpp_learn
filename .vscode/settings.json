@@ -19,7 +19,7 @@
     "editor.cursorSmoothCaretAnimation": true, // 移动光标时变得平滑
     "editor.smoothScrolling": false, // 滚动平滑，不过效果很微弱
     "files.trimTrailingWhitespace": true, // 保存时，删除每一行末尾的空格
-    "files.insertFinalNewline": true, // 保存后文件最末尾加一整行空行，Linux下的习惯
+    // "files.insertFinalNewline": true, // 保存后文件最末尾加一整行空行，Linux下的习惯
     "files.autoGuessEncoding": false, // 启用后，会在打开文件时尝试猜测字符集编码。我关闭的理由见6，默认也是禁用的
     "workbench.settings.useSplitJSON": false, // 恢复手动编辑时的两列设置
     "window.zoomLevel": 0.5, // 整体放大
